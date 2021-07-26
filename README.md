@@ -11,17 +11,11 @@ Video Game Info was Scraped from the Best Buy PS5 games.
     - BeautifulSoup & Requests (Web Scraping)
     - NumPy, Pandas, & Scikit-Learn (Data Cleaning & Preprocessing)
     - Tensorflow/Keras (Building the Artificial Neural Network)
-## Django
-    - Web Framework for connecting Back-End to Front-End with REST API
-    
+  
 # Databases
  
 ## PostgreSQL
     - storing input into database
     
-    
-# Front-End
-
-## HTML/CSS
-
-## JavaScript
+## Visualization
+    - Tableau
